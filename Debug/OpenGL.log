@@ -1,0 +1,16 @@
+﻿  main.cpp
+E:\Do hoa may tinh\btl\BaiTH8_Hinhlapphuong_chieusang\OpenGL\main.cpp(134,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\btl\BaiTH8_Hinhlapphuong_chieusang\OpenGL\main.cpp(140,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\btl\BaiTH8_Hinhlapphuong_chieusang\OpenGL\main.cpp(277,11): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\btl\BaiTH8_Hinhlapphuong_chieusang\OpenGL\main.cpp(278,11): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\btl\BaiTH8_Hinhlapphuong_chieusang\OpenGL\main.cpp(281,11): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\btl\BaiTH8_Hinhlapphuong_chieusang\OpenGL\main.cpp(282,11): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\btl\BaiTH8_Hinhlapphuong_chieusang\OpenGL\main.cpp(285,11): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\btl\BaiTH8_Hinhlapphuong_chieusang\OpenGL\main.cpp(286,11): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\btl\BaiTH8_Hinhlapphuong_chieusang\OpenGL\main.cpp(289,11): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\btl\BaiTH8_Hinhlapphuong_chieusang\OpenGL\main.cpp(290,11): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\btl\BaiTH8_Hinhlapphuong_chieusang\OpenGL\main.cpp(293,17): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\btl\BaiTH8_Hinhlapphuong_chieusang\OpenGL\main.cpp(295,16): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\btl\BaiTH8_Hinhlapphuong_chieusang\OpenGL\main.cpp(298,15): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\btl\BaiTH8_Hinhlapphuong_chieusang\OpenGL\main.cpp(299,14): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+  OpenGL.vcxproj -> E:\Do hoa may tinh\btl\BaiTH8_Hinhlapphuong_chieusang\Debug\OpenGL.exe
